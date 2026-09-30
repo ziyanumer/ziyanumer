@@ -9,12 +9,13 @@ Most of my work comes back to one question: how do we get large language models 
 - **Hallucination detection, verification, and correction in generative AI: A comprehensive survey**
   Natural Language Processing Journal (Elsevier), 2026 · [doi.org/10.1016/j.nlp.2026.100231](https://doi.org/10.1016/j.nlp.2026.100231)
   Reviews 90 studies across retrieval-augmented generation, automated fact-checking, natural language inference and cross-model verification, and proposes TruthGuard AI, a multi-layer framework for verifying LLM outputs.
-- **TruthGuard** (final year project): a research paper and a journal paper introducing a new algorithm are currently submitted.
+- **[TruthGuard](https://github.com/ziyanumer/TruthGuard)** (final year project): a research paper and a journal paper introducing a new algorithm are currently submitted.
 - **Quantum computing survey:** in progress.
 
 ### 🛠️ Projects
 
 - **[JobMarketAnalytics](https://github.com/ziyanumer/JobMarketAnalytics)**: a 3NF SQL Server database of 515,000+ records from 123,849 LinkedIn job postings, with a Python cleaning pipeline, views, stored procedures, an audit trigger and a [live dashboard](https://claude.ai/artifact/2tG4BAGHFTyAUV75cUmA6B).
+- **[Aurion](https://github.com/ziyanumer/Aurion)**: an automated gold (XAUUSD) trading system in MQL5 for MetaTrader 5, backed by Python backtesting and Monte Carlo risk analysis.
 
 ### 🧰 Tech
 
